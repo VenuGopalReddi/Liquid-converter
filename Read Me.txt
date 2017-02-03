@@ -15,5 +15,6 @@ Now By taking outputselectedId in another switch expression and using  ids of ou
 I used decimal formater to  trail the unnecessary zeros in output and if output is decimal number then displays upto three decimal points.
 Hence for any input measurement unit it converts into equivalent output unit and displays on screen.
 
+uploaded in git
 
 
