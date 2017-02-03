@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">liquidconverter</string>
+    <string name="entervalue">Enter value</string>
+    <string name="fluidounce">fluid ounce</string>
+    <string name="cup">cup</string>
+    <string name="pint">pint</string>
+    <string name="quart">quart</string>
+    <string name="gallon">gallon</string>
+    <string name="millilitre">millilitre</string>
+    <string name="litre">litre</string>
+    <string name="doconversion">DOCONVERSION</string>
+</resources>
